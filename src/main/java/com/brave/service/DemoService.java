@@ -2,7 +2,6 @@ package com.brave.service;
 
 import com.brave.dto.CollectInfoDTO;
 import com.brave.util.CommonUtils;
-import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

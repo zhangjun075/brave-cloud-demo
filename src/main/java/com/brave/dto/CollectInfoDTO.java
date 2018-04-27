@@ -5,9 +5,6 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import javax.annotation.sql.DataSourceDefinition;
-import javax.validation.constraints.NotNull;
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
